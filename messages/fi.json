@@ -1,0 +1,16 @@
+{
+    "FrontPage": {
+      "title": "Hei maailma!",
+      "about": "bläähblääh",
+      "events": "Tapahtumat",
+      "news": "Kuulumiset"
+    },
+    "NavBar": {
+        "about": "TIETOA",
+        "events": "TAPAHTUMAT",
+        "member": "JÄSENEKSI",
+        "contact": "YHTEYSTIEDOT",
+        "gallery": "GALLERIA"
+        
+    }
+}

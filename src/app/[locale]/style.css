@@ -1,0 +1,52 @@
+body {
+  background-color: #fddee4;
+  margin: 0rem;
+  margin-top: 5rem;
+}
+
+.align-centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  display: flex;
+  width: 100%;
+  max-height: 30rem;
+}
+
+.welcome-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  background-color: #ffffff;
+  margin: 2rem;
+  padding: 2rem;
+  padding-top: 1rem;
+  border-radius: 1rem;
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+}
+
+.events {
+  display: flex;
+  flex-direction: column;
+}
+
+.events-and-news {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box {
+  background-color: #ffffff;
+  border-radius: 2rem;
+  padding: 1rem;
+  display: flex;
+  align-self: center;
+}
